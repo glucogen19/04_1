@@ -6,4 +6,7 @@ class TPen {
     string color;
 };
 
-int main(){}
+int main(){
+	cout << "What color is the UN flag?" << endl;
+    TPen pen;
+}
